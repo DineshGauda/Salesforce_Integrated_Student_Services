@@ -17,3 +17,5 @@ This project is a part of the continuous assessment for Strategic ICT & eBusines
 2. PHP
 3. Python
 4. MySQL
+
+**Project Description:** The project was aimed at providing an integrated platform to the international students in order to bring the key services like PPSN, GNIB, etc. at the finger tips of the International Students and hence reducing the time required to get adjusted and settled in Ireland. In this project, Salesforce was used in order to explore the Salesforce ecosystem. Also to understand as to how one can deploy complex ERP systems online quickly by reducing development costs.
